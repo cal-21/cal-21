@@ -1,4 +1,4 @@
-- Hi, I’m @cal-21
+- Hi, I’m Cal
 - I’m interested in backend and front end programming
 - I’m currently learning advanced python and java
 - I’m looking to collaborate on anything related to programming
